@@ -1,0 +1,13 @@
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.exe
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.deps.json
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.json
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.runtimeconfig.dev.json
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.dll
+D:\Practise\C#\Not NET\Queue\bin\Debug\netcoreapp3.1\Queue.pdb
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.csprojAssemblyReference.cache
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfoInputs.cache
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.AssemblyInfo.cs
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.csproj.CoreCompileInputs.cache
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.dll
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.pdb
+D:\Practise\C#\Not NET\Queue\obj\Debug\netcoreapp3.1\Queue.genruntimeconfig.cache
